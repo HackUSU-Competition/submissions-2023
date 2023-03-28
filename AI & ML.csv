@@ -1,0 +1,41 @@
+"Timestamp","Team Name","Average Team Education & Experience","Project Name","Brief Project Description","3rd Party Libraries & Assets","Link to view project code","Upload Video Demo (Preferred)","Link to Video (if you have problems with video upload)"
+"2023/03/25 3:27:34 PM CST","Me","4+ Years","dynamic-chatbot","My project is an AI assistant. What makes it unique is instead of being accessible via web or mobile app, it is used via SMS and phone call, reachable at (801) 349-3494. This is the first AI assistant I've heard of that can do it's job by having the user ask questions on a phone call, with a response spoken to them. Another feature that makes this chatbot unique is that it can change personalities on request. A user can request it's personality to be pretty much any person, character, or anything else they'd like. This, however, is only available through SMS. 
+
+In addition to the libraries and frameworks described below, I host my project using Flask on my own remote Ubuntu server I have set up, and I used Ngrok to expose the server to the internet securely without punching any holes in my firewall. ","To complete this project, I used:
+- Python
+- Flask Server
+- Twilio Studio Flow
+- Twilio Python API
+- OpenAI ChatGPT API
+- MySQL Server on Microsoft Azure Cloud
+- Ngrok
+- Ubuntu (used for server hosting)","https://github.com/masoncfrancis/dynamic-chatbot","https://drive.google.com/u/1/open?usp=forms_web&id=1DlJC9tmAkDXBOVt_9H0flaTWKHqLf2_s","https://photos.app.goo.gl/u4daGC2jASCNtVTX6"
+"2023/03/25 3:29:22 PM CST","visuaLingua","1 - 2 Years","visuaLingua","A chatGPT plug-in to change natural language prompts into graphs, coded in Replit.","Flask and matplotlib","Replit.com/@brodiemm",,"https://www.loom.com/share/c6c95a7d5a07475fa858ececf0aaab99"
+"2023/03/25 3:50:21 PM CST","Crtl+C Crtl+V","1 - 2 Years","Husu-Cyoa","Creating a comic strip using responses from ChatGPT to continue the story and give the user the ability to affect how the story goes.  ","python, ChatGPT API and DALL-E API ","https://github.com/Utah-State-University-Cybersecurity/hackUSU","https://drive.google.com/u/1/open?usp=forms_web&id=1zbobxv48LRU29OQg5m6yS28WUeue-FZx",
+"2023/03/25 3:58:59 PM CST","Cailean and Landon","4+ Years","Shakespearean English Translator and Generator","Our project takes a LLM (GPT2) and finetunes it to our specific use case, translating or generating Shakespearean English. After training the model, we then created a web app using Flask which loads and leverages our model or translation and generation. Through out web app we can feed prompts to our model and either receive a translation or generated text.  ","Pandas
+Numpy
+Transformers
+statistics
+re
+torch
+tqdm
+GPT2
+
+Flask and Flask-bootstrap
+Flask-WTF
+
+We leveraged  a variety of Towards Data Science articles, Medium articles, and an open source kaggle repo. Linked here: https://github.com/cocoxu/Shakespeare/tree/master/data/align/plays/merged
+
+We also utilized the knowledge from arxiv articles to understand the mechanisms behind what we wanted to do. (we did not use their code). Here is an example of an article: https://arxiv.org/pdf/1707.01161.pdf
+
+And Stack overflow to answer coding/ bug questions","https://colab.research.google.com/drive/18Of0iPVX_-OBw5ZU1hMb3rQcp_PcQ5s6#scrollTo=ayD4YZez7top","https://drive.google.com/u/1/open?usp=forms_web&id=1VyThO4XGhG_7FoOieU4CKuyomUoOpqvi",
+"2023/03/25 3:59:07 PM CST","Bless shoe","2 - 3 Years","Shrinking a Model","Training and shrinking a CNN to fit on a microcontroller","Keras, TensorFlow, GoogleCollab, Pil","https://colab.research.google.com/drive/1UjF7jbp0b92ijXdkF2EiNgVtghGMrDZO?usp=sharing","https://drive.google.com/u/1/open?usp=forms_web&id=1Gc48Bxi9nlIRVvM_seTtfZzJ1ASs2Jkh","https://drive.google.com/file/d/1MFitKJjNM-T-EtD9O44cDxustNvyuRfW/view?usp=drivesdk"
+"2023/03/25 3:59:12 PM CST","JD and Kadin lol","4+ Years","AIUI","User interface for training AI","Django, React, Scikit Learn","https://github.com/Artificial-Intelligence-User-Interface","https://drive.google.com/u/1/open?usp=forms_web&id=1ViNuqNYir7wQs7zGqG20o7kXPYt5nZVV",
+"2023/03/25 3:59:15 PM CST","The WAP-ers","2 - 3 Years","Weighted Adversarial Predictors","We propose and study a novel risk functional for adversarial classification. ","PyTorch","https://colab.research.google.com/drive/1X1kStODm_lYHoStTWkQT_NICqmGQOYue?usp=share_link ",,"https://docs.google.com/document/d/1ag4IZZvXb26XxQsXW_W8Zs2AOFNjJsBmBizh9FeUtg0/edit?usp=sharing"
+"2023/03/25 4:00:07 PM CST","The Flying J's","4+ Years","Flight Delay Predictor","We built a machine learning model to inform a user of the chance that a given flight will be delayed, using API data from several APIs to determine the weather forecast and flight information. ","open-meteo.com (weather), aerodatabox.com (flight data), Kaggle (datasets), ChatGPT (for little CSS things)","https://github.com/tylerTaerak/HackUSU2023",,"https://youtu.be/jos4tmUhTeY"
+"2023/03/25 4:05:19 PM CST","Brainy","4+ Years","Benign and Malignant Brain tumor detector ","In this project, I have used CNN to detect glioma tumor which is one form of Glioblastoma tumor. This tumor are pretty benign. But this kind of tumor is often misidentified by the doctor. Hence, the diagnosis becomes difficult for the doctor. So, I build a classifier that classify benign brain tumor, glioma and malignant tumor like-Meningioma. I build a server for doctor to send the image. It worked at first but there are coding issue for which it is not working now.","tensorflow, numpy,pandas, PIL, fastapi, matplotlib, keras","https://github.com/rifat19331279/HackUSU-2023","https://drive.google.com/u/1/open?usp=forms_web&id=131ta3jAwSvNUj6GaLpi2OReTZu9LgAWO",
+"2023/03/25 4:07:12 PM CST","G0nePhishing","2 - 3 Years","Graph Neural Network for Drug Discovery","Our project uses a Graph Neural Network, or GNN, to analyze the Zinc database and identify potential drug candidates. The Zinc database is a large collection of purchasable compounds that can be used for drug discovery. Traditional methods for identifying potential drug candidates from this database don't work well, though, because the compounds are represented as nodes in a graph with various relationships represented as edges in the graph, such as similarity or chemical properties. By using a GNN and leveraging the graph structure of the database, we aim to overcome these limitations and discover new drugs that could save lives.","Streamlit
+Pytorch Geometric
+Pickle
+Torch
+Matplotlib","https://github.com/TylerEnglish/GP_Graph_Net","https://drive.google.com/u/1/open?usp=forms_web&id=154VbLJV0i6hrDdtcazp9r1vVdMq4d2Wv",
